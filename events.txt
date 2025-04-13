@@ -1,0 +1,98 @@
+==== New Game Session ====
+Red rolled a 1. They moved to square 2.
+Blue rolled a 6. They moved to square 7.
+Red rolled a 1. They moved to square 3.
+Blue rolled a 6. They moved to square 13.
+Red rolled a 3. They moved to square 6.
+Blue rolled a 4. They moved to square 17.
+Red rolled a 2. They moved to square 8.
+Blue rolled a 6. They moved to square 23.
+Red rolled a 1. They moved to square 9.
+Blue rolled a 3. They moved to square 26.
+Red rolled a 5. They moved to square 14.
+Blue rolled a 2. They moved to square 28.
+Red rolled a 4. They moved to square 18.
+Blue rolled a 2. They moved to square 30.
+Red rolled a 2. They moved to square 20.
+Blue rolled a 3. They moved to square 33.
+Red rolled a 6. They moved to square 26.
+Blue rolled a 6. They moved to square 39.
+Red rolled a 3. They moved to square 29.
+Blue rolled a 2. They moved to square 41.
+Red rolled a 4. They moved to square 33.
+Blue rolled a 1. They moved to square 42.
+Red rolled a 2. They moved to square 35.
+Blue rolled a 2. They moved to square 44.
+Red rolled a 3. They moved to square 38.
+Blue rolled a 4. They moved to square 48.
+Red rolled a 2. They moved to square 40.
+Blue rolled a 1. They moved to square 49.
+Red rolled a 2. They moved to square 42.
+Blue rolled a 1. They moved to square 50.
+Red rolled a 3. They moved to square 45.
+Blue rolled a 5. They moved to square 55.
+Red rolled a 3. They moved to square 48.
+Blue rolled a 5. They landed exactly on square 60 and won the game!
+
+==== New Game Session ====
+Red rolled a 1. They moved to square 2.
+Blue rolled a 5. They moved to square 6.
+Red rolled a 6. They moved to square 8.
+Blue rolled a 5. They moved to square 11.
+Red rolled a 1. They moved to square 9.
+Blue rolled a 2. They moved to square 13.
+Red rolled a 2. They moved to square 11.
+Blue rolled a 1. They moved to square 14.
+Red rolled a 3. They landed on Blue and sent them back to start! They moved to square 14.
+Blue rolled a 1. They moved to square 2.
+Red rolled a 1. They moved to square 15.
+Blue rolled a 6. They moved to square 8.
+Red rolled a 6. They moved to square 21.
+Blue rolled a 3. They moved to square 11.
+Red rolled a 3. They moved to square 24.
+Blue rolled a 6. They moved to square 17.
+Red rolled a 5. They moved to square 29.
+Blue rolled a 6. They moved to square 23.
+Red rolled a 3. They moved to square 32.
+Blue rolled a 2. They moved to square 25.
+Red rolled a 6. They moved to square 38.
+Blue rolled a 3. They moved to square 28.
+Red rolled a 4. They moved to square 42.
+Blue rolled a 5. They moved to square 33.
+Red rolled a 1. They moved to square 43.
+Blue rolled a 5. They moved to square 38.
+Red rolled a 2. They moved to square 45.
+Blue rolled a 4. They moved to square 42.
+Red rolled a 5. They moved to square 50.
+Blue rolled a 5. They moved to square 47.
+Red rolled a 5. They moved to square 55.
+Blue rolled a 1. They moved to square 48.
+Red rolled a 4. They moved to square 59.
+Blue rolled a 6. They moved to square 54.
+Red rolled a 3. They needed exactly 1, so they stayed in place.
+Blue rolled a 5. They landed on Red and sent them back to start! They moved to square 59.
+Red rolled a 2. They moved to square 3.
+Blue rolled a 4. They needed exactly 1, so they stayed in place.
+Red rolled a 5. They moved to square 8.
+Blue rolled a 2. They needed exactly 1, so they stayed in place.
+Red rolled a 1. They moved to square 9.
+Blue rolled a 6. They needed exactly 1, so they stayed in place.
+Red rolled a 4. They moved to square 13.
+Blue rolled a 6. They needed exactly 1, so they stayed in place.
+Red rolled a 6. They moved to square 19.
+Blue rolled a 2. They needed exactly 1, so they stayed in place.
+Red rolled a 4. They moved to square 23.
+Blue rolled a 6. They needed exactly 1, so they stayed in place.
+Red rolled a 4. They moved to square 27.
+Blue rolled a 5. They needed exactly 1, so they stayed in place.
+Red rolled a 4. They moved to square 31.
+Blue rolled a 6. They needed exactly 1, so they stayed in place.
+Red rolled a 3. They moved to square 34.
+Blue rolled a 5. They needed exactly 1, so they stayed in place.
+Red rolled a 4. They moved to square 38.
+Blue rolled a 2. They needed exactly 1, so they stayed in place.
+Red rolled a 4. They moved to square 42.
+Blue rolled a 4. They needed exactly 1, so they stayed in place.
+Red rolled a 3. They moved to square 45.
+Blue rolled a 1. They landed exactly on square 60 and won the game!
+
