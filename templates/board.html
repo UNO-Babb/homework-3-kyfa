@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sorry! Lite</title>
+    <style>
+        .board {
+            display: flex;
+            flex-wrap: wrap;
+            width: 1240px;
+        }
+        .square {
+            width: 40px;
+            height: 40px;
+            border: 1px solid #ccc;
+            position: relative;
+            font-size: 10px;
+            text-align: center;
+            line-height: 40px;
+        }
+        .player {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            position: absolute;
+            top: 5px;
+            left: 5px;
+        }
+        .red { background-color: red; }
+        .blue { background-color: blue; }
+    </style>
+</head>
+<body>
+    <h1>Sorry! Lite</h1>
+    <p><strong>Current Turn: {{ current_player.title() }}</strong></p>
+    <a href="{{ url_for('move') }}">Roll & Move</a>
+    <div class="board">
+        {% for i in range(num_squares) %}
+            <div class="square">
+                {{ i }}
+                {% for color, pos in players.items() %}
+                    {% if pos == i %}
+                        <div class="player {{ color }}"></div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

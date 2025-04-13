@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Winner!</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: sans-serif;
+        }
+        .player-circle {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            margin: 20px auto;
+        }
+        .red { background-color: red; }
+        .blue { background-color: blue; }
+    </style>
+</head>
+<body>
+    <h1>🎉 {{ winner.title() }} Player Wins! 🎉</h1>
+    <div class="player-circle {{ winner }}"></div>
+    <a href="{{ url_for('restart') }}">Play Again</a>
+</body>
+</html>
